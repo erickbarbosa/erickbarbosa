@@ -3,6 +3,8 @@
 
 Welcome to my GitHub profile!
 
+![Welcome to my Github profile!](github-image-profile.gif)
+
 I'm a tech enthusiast with a passion for technology and continuous learning, coupled with vast experience and a kind, communicative approach. My toolbox includes:
 
 - Java | Android
