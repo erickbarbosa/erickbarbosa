@@ -2,7 +2,7 @@
 ![Welcome to my Github profile!](github-image-profile.gif)
 
 # Hello, I'm Erick 👋
-## Technical Leader | IT Consulting Services | Full Stack Development
+## Technical Leader | IT Services Consultant | Full Stack Development
 
 Welcome to my GitHub profile!
 
